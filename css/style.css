@@ -1,0 +1,43 @@
+.logo{
+	height: 50px;
+}
+.logo img{
+	border-radius: 50%;
+}
+#content{
+	background-color: white;
+	height: 490px;
+   background-color: #cccccc;
+
+}
+#content img{
+	padding-top: 50px;
+	align-items: right;
+	margin-left: 350px;
+}
+#product-list{
+	align-items: center;
+	padding-top: 100px;
+}
+#copyright{
+	background-color: rgba(0, 0, 0, 0.2);}
+#footer{
+	align-items: right;
+}
+#form{
+	align-items: center;
+}
+.pt-2{
+	padding-left: 700px;
+}
+#team{
+	height: 490px;
+	align-items: center;
+}
+.card{
+	width: 18rem;
+}
+#contactus{
+	height: 490px;
+	align-items: center;
+}
